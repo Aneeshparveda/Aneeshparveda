@@ -19,7 +19,6 @@ FPGA & SoC Designer — B.Tech ECE, Semester 5, Vasavi College of Engineering, H
 
 - Research Intern, iHub-Data, IIIT Hyderabad — Computer Vision
 - B.Tech ECE, Semester 5, Vasavi College of Engineering, Hyderabad
-- Semester 4 SGPA 8.17, CGPA 8.47
 
 ## Skills
 
