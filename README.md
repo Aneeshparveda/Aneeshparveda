@@ -1,6 +1,6 @@
 <div align="center">
 
-![Aneesh Parveda header](https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:0e7490&height=200&section=header&text=Aneesh%20Parveda&fontSize=56&fontColor=22d3ee&animation=fadeIn&desc=FPGA%20%26%20SoC%20Designer&descAlignY=76)
+![Aneesh Parveda header](https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:0e7490&height=200&section=header&text=Aneesh%20Parveda&fontSize=56&fontColor=22d3ee&animation=fadeIn&desc=FPGA%20SoC%20Designer&descAlignY=76)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+NEXUS-32%2C+a+PicoRV32+FIR+SoC+on+Basys+3;VLSI+%7C+RISC-V+%7C+DSP+%7C+Edge+AI;Simulation-proven.+Board-proven+is+next.)](https://github.com/Aneeshparveda)
 
