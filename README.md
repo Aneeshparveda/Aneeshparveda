@@ -1,19 +1,13 @@
-<div align="center">
+<img src="assets/aneesh-hero.svg" width="100%" alt="Aneesh Parveda — FPGA and SoC Designer, building NEXUS-32, a PicoRV32 FIR SoC on Basys 3" />
 
-![Aneesh Parveda header](https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:0e7490&height=200&section=header&text=Aneesh%20Parveda&fontSize=56&fontColor=22d3ee&animation=fadeIn&desc=FPGA%20SoC%20Designer&descAlignY=76)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+NEXUS-32%2C+a+PicoRV32+FIR+SoC+on+Basys+3;VLSI+%7C+RISC-V+%7C+DSP+%7C+Edge+AI;Simulation-proven.+Board-proven+is+next.)](https://github.com/Aneeshparveda)
-
-# Hi, I'm Aneesh Parveda 👋
+# Hi, I'm Aneesh Parveda
 
 **FPGA & SoC Designer — B.Tech ECE, Semester 5, Vasavi College of Engineering, Hyderabad. Aiming for a core-domain placement.**
 
 *I build things you can reproduce, re-measure, and defend — simulation evidence first, board evidence when it exists, never claimed early.*
 
-[![GitHub followers](https://img.shields.io/github/followers/Aneeshparveda?style=flat-square)](https://github.com/Aneeshparveda)
-[![Profile views](https://komarev.com/ghpvc/?username=Aneeshparveda&style=flat-square&color=0e7490)](https://github.com/Aneeshparveda)
-
-</div>
+[![GitHub followers](https://img.shields.io/github/followers/Aneeshparveda?style=flat-square&color=701A3D)](https://github.com/Aneeshparveda)
+[![Profile views](https://komarev.com/ghpvc/?username=Aneeshparveda&style=flat-square&color=701A3D)](https://github.com/Aneeshparveda)
 
 ## 🚀 Currently building
 
@@ -23,27 +17,10 @@ PicoRV32 FPGA SoC on Digilent Basys 3 (Artix-7 XC7A35T), comparing **Sequential,
 
 > Simulation + CI verified; Vivado/board validation in progress (**not yet claimed**). SoC latency 129 cycles is a simulation figure, not a board measurement.
 
-## 🧭 Focus areas
+## 🎓 Verified education & certification
 
-- VLSI / SoC design
-- RISC-V
-- DSP & hardware acceleration
-- Robotics
-- Edge AI / TinyML
-
-## 🛠️ Tech stack
-
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=flat-square)
-![Verilog](https://img.shields.io/badge/Verilog-00599C?style=flat-square)
-![Vivado](https://img.shields.io/badge/Vivado-FF0000?style=flat-square)
-![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+- **B.Tech ECE, Semester 5, Vasavi College of Engineering, Hyderabad**
+- **iHub-Data, IIIT Hyderabad — Artificial Intelligence and Machine Learning training programme, 24 weeks, September 2025 – February 2026, Certificate of Competency**
 
 ## 📌 Selected projects
 
@@ -54,10 +31,30 @@ PicoRV32 FPGA SoC on Digilent Basys 3 (Artix-7 XC7A35T), comparing **Sequential,
 | **[IIITH_ComputerVision_Internship_2026](https://github.com/Aneeshparveda/IIITH_ComputerVision_Internship_2026)** | CV internship learning record: YOLO detection, segmentation, dataset engineering, PCB-inspection concept | Learning record, not a library; **no metrics claimed** |
 | **[ARIA](https://github.com/Aneeshparveda/ARIA)** | ESP32 + Arduino Uno laser Li-Fi fire/gas alert system (fork of a team project) | College mini-project prototype, **not** a certified safety device |
 
-## 🎓 Experience & education
+## 🛠️ Skills, grouped
 
-- **Research Intern, iHub-Data, IIIT Hyderabad** — Computer Vision
-- **B.Tech ECE, Semester 5, Vasavi College of Engineering, Hyderabad**
+| Category | Technologies |
+|---|---|
+| Hardware / SoC | SystemVerilog, Verilog, Vivado, RISC-V |
+| Software | Python, C, C++, Arduino |
+| AI / Computer Vision | AI, Machine Learning, OpenCV |
+| Tools | Git, GitHub |
+
+## 🟫 Contribution graph
+
+<img src="assets/contribution-pattern.svg" width="100%" alt="Decorative burgundy pattern — not contribution data" />
+
+*The grid above is a decorative pattern, not activity data. My live contribution graph is on [my GitHub profile](https://github.com/Aneeshparveda).*
+
+<!-- GitHub stats widget omitted: github-readme-stats returned HTTP 503 when checked on 2026-10-29. Re-add only once the service is reachable again; do not substitute invented numbers. -->
+
+## 🧭 Focus areas
+
+- VLSI / SoC design
+- RISC-V
+- DSP & hardware acceleration
+- Robotics
+- Edge AI / TinyML
 
 ## 📫 Find me
 
@@ -68,8 +65,4 @@ PicoRV32 FPGA SoC on Digilent Basys 3 (Artix-7 XC7A35T), comparing **Sequential,
 
 ---
 
-<div align="center">
-
-![Aneesh Parveda footer](https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,100:0a1628&height=100&section=footer&text=If%20it%20isn%27t%20measured%2C%20it%20isn%27t%20claimed&fontSize=16&fontColor=22d3ee)
-
-</div>
+<img src="assets/aneesh-footer.svg" width="100%" alt="If it isn't measured, it isn't claimed." />
