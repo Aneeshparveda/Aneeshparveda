@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="aneesh-hero-title aneesh-hero-desc">
+  <title id="aneesh-hero-title">Aneesh Parveda — FPGA and SoC Designer</title>
+  <desc id="aneesh-hero-desc">Burgundy hero banner: Aneesh Parveda, FPGA and SoC Designer, building NEXUS-32, a PicoRV32 FIR SoC on Basys 3. Decorative animated gradients, grid, and orbital geometry. Static design remains readable if animation is disabled.</desc>
+  <defs>
+    <linearGradient id="aneesh-hero-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset="0.55" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#451126"/>
+    </linearGradient>
+    <linearGradient id="aneesh-hero-wine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#701A3D"/>
+      <stop offset="1" stop-color="#C77B9B"/>
+    </linearGradient>
+    <radialGradient id="aneesh-hero-glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#C77B9B" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="aneesh-hero-soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="400" fill="url(#aneesh-hero-bg)"/>
+  <!-- technical grid -->
+  <g stroke="#E5B5C7" stroke-opacity="0.10" stroke-width="1">
+    <path d="M0 80 H1200 M0 160 H1200 M0 240 H1200 M0 320 H1200"/>
+    <path d="M200 0 V400 M400 0 V400 M600 0 V400 M800 0 V400 M1000 0 V400"/>
+  </g>
+  <!-- moving light -->
+  <ellipse cx="880" cy="150" rx="330" ry="170" fill="url(#aneesh-hero-glow)">
+    <animate attributeName="cx" values="880;920;880" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="150;170;150" dur="14s" repeatCount="indefinite"/>
+  </ellipse>
+  <!-- restrained orbital geometry: chip square with two orbits -->
+  <g transform="translate(930,190)">
+    <ellipse rx="150" ry="62" fill="none" stroke="#C77B9B" stroke-opacity="0.45" stroke-width="1.5" transform="rotate(-18)">
+      <animateTransform attributeName="transform" type="rotate" from="-18 0 0" to="342 0 0" dur="36s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse rx="110" ry="110" fill="none" stroke="#E5B5C7" stroke-opacity="0.30" stroke-width="1"/>
+    <rect x="-58" y="-58" width="116" height="116" rx="10" fill="#190B12" stroke="#C77B9B" stroke-width="2"/>
+    <rect x="-34" y="-34" width="68" height="68" rx="6" fill="none" stroke="#701A3D" stroke-width="2"/>
+    <circle cx="0" cy="0" r="10" fill="#C77B9B"/>
+  </g>
+  <!-- animated drawn path -->
+  <path d="M80 300 C 260 240, 420 340, 620 290 S 980 250, 1080 270" fill="none" stroke="url(#aneesh-hero-wine)" stroke-width="3" stroke-linecap="round" stroke-dasharray="1400" stroke-dashoffset="1400">
+    <animate attributeName="stroke-dashoffset" values="1400;0" dur="4s" fill="freeze"/>
+  </path>
+
+  <g font-family="Georgia, 'Times New Roman', serif">
+    <text x="80" y="120" font-size="72" fill="#F8F0F3" letter-spacing="1">Aneesh Parveda</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="80" y="172" font-size="27" fill="#E5B5C7">FPGA &amp; SoC Designer</text>
+    <text x="80" y="212" font-size="20" fill="#C77B9B">Building NEXUS-32 — a PicoRV32 FIR SoC on Basys 3</text>
+    <text x="80" y="248" font-size="17" fill="#E5B5C7" opacity="0.85">Simulation evidence first. Board evidence when it exists.</text>
+  </g>
+  <!-- glowing underline -->
+  <rect x="80" y="268" width="340" height="4" rx="2" fill="#C77B9B" filter="url(#aneesh-hero-soft)"/>
+  <rect x="80" y="268" width="340" height="4" rx="2" fill="url(#aneesh-hero-wine)"/>
+</svg>
