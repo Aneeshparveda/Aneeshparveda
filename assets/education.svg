@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-labelledby="ed-t ed-d">
+<title id="ed-t">Education and certification — documented, not decorated</title>
+<desc id="ed-d">B.Tech ECE, Semester 5, Vasavi College of Engineering, Hyderabad. iHub-Data, IIIT Hyderabad: Artificial Intelligence and Machine Learning training programme, 24 weeks, September 2025 to February 2026, Certificate of Competency.</desc>
+<defs><linearGradient id="ed-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/></linearGradient><radialGradient id="ed-glow" cx="82%" cy="20%" r="65%"><stop offset="0" stop-color="#701A3D" stop-opacity=".65"/><stop offset="1" stop-color="#451126" stop-opacity="0"/></radialGradient><pattern id="ed-grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#C77B9B" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="380" rx="18" fill="url(#ed-bg)"/>
+<rect width="1200" height="380" rx="18" fill="url(#ed-glow)"/>
+<rect width="1200" height="380" rx="18" fill="url(#ed-grid)"/>
+<rect x="1" y="1" width="1198" height="378" rx="17" fill="none" stroke="#701A3D" stroke-opacity=".55"/>
+<rect x="40" y="40" width="550" height="300" rx="14" fill="#10070C" stroke="#701A3D"/>
+<text x="64" y="84" font-size="16" fill="#C77B9B" font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-weight="bold" text-anchor="start" letter-spacing="1">EDUCATION</text>
+<text x="64" y="132" font-size="30" fill="#F8F0F3" font-family='Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif' font-weight="bold" text-anchor="start">B.Tech, Electronics &amp;</text>
+<text x="64" y="168" font-size="30" fill="#F8F0F3" font-family='Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif' font-weight="bold" text-anchor="start">Communication Engineering</text>
+<text x="64" y="210" font-size="19" fill="#E5B5C7" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-weight="normal" text-anchor="start">Semester 5 · Vasavi College of Engineering</text>
+<text x="64" y="244" font-size="19" fill="#B6A3AC" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-weight="normal" text-anchor="start">Hyderabad · Aiming for a core-domain placement.</text>
+<rect x="610" y="40" width="550" height="300" rx="14" fill="#10070C" stroke="#701A3D"/>
+<text x="634" y="84" font-size="16" fill="#C77B9B" font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-weight="bold" text-anchor="start" letter-spacing="1">CERTIFICATION</text>
+<text x="634" y="132" font-size="30" fill="#F8F0F3" font-family='Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif' font-weight="bold" text-anchor="start">Certificate of Competency</text>
+<text x="634" y="168" font-size="24" fill="#E5B5C7" font-family='Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif' font-weight="normal" text-anchor="start">iHub-Data, IIIT Hyderabad</text>
+<text x="634" y="210" font-size="19" fill="#E5B5C7" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-weight="normal" text-anchor="start">AI &amp; ML training programme · 24 weeks</text>
+<text x="634" y="244" font-size="19" fill="#B6A3AC" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-weight="normal" text-anchor="start">September 2025 – February 2026</text>
+</svg>

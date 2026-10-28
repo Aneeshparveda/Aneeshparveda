@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img" aria-labelledby="pn-t pn-d">
+<title id="pn-t">NEXUS-32 — flagship</title>
+<desc id="pn-d">PicoRV32 FPGA SoC on Digilent Basys 3 (Artix-7 XC7A35T), comparing Sequential,</desc>
+<defs><linearGradient id="pn-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/></linearGradient><radialGradient id="pn-glow" cx="82%" cy="20%" r="65%"><stop offset="0" stop-color="#701A3D" stop-opacity=".65"/><stop offset="1" stop-color="#451126" stop-opacity="0"/></radialGradient><pattern id="pn-grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#C77B9B" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="370" rx="18" fill="url(#pn-bg)"/>
+<rect width="1200" height="370" rx="18" fill="url(#pn-glow)"/>
+<rect width="1200" height="370" rx="18" fill="url(#pn-grid)"/>
+<rect x="1" y="1" width="1198" height="368" rx="17" fill="none" stroke="#701A3D" stroke-opacity=".55"/>
+<text x="60" y="78" font-size="34" fill="#F8F0F3" font-family='Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif' font-weight="bold" text-anchor="start">NEXUS-32 — flagship</text>
+<text x="60" y="122" font-size="21" fill="#E5B5C7" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-weight="normal" text-anchor="start">PicoRV32 FPGA SoC on Digilent Basys 3 (Artix-7 XC7A35T), comparing Sequential,</text>
+<text x="60" y="168" font-size="21" fill="#F8F0F3" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-weight="normal" text-anchor="start">Parallel, and Pipelined FIR accelerators under one Q16.16 numerical contract.</text>
+<text x="60" y="212" font-size="19" fill="#B6A3AC" font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-weight="normal" text-anchor="start">Python golden model · SystemVerilog RTL · assembly firmware · CI</text>
+<rect x="60" y="250" width="1080" height="64" rx="12" fill="#451126"/>
+<text x="84" y="290" font-size="20" fill="#F8F0F3" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-weight="normal" text-anchor="start">STATUS  ·  Simulation + CI verified; Vivado / board validation in progress (not yet claimed)</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="ab-t ab-d">
+<title id="ab-t">About Aneesh Parveda</title>
+<desc id="ab-d">FPGA and SoC Designer. B.Tech ECE, Semester 5, Vasavi College of Engineering, Hyderabad. iHub-Data AI and ML training programme, 24 weeks, September 2025 to February 2026, Certificate of Competency. Focus: VLSI and SoC design, RISC-V, DSP and hardware acceleration, Robotics, Edge AI and TinyML.</desc>
+<defs><linearGradient id="ab-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/></linearGradient><radialGradient id="ab-glow" cx="82%" cy="20%" r="65%"><stop offset="0" stop-color="#701A3D" stop-opacity=".65"/><stop offset="1" stop-color="#451126" stop-opacity="0"/></radialGradient><pattern id="ab-grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#C77B9B" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="420" rx="18" fill="url(#ab-bg)"/>
+<rect width="1200" height="420" rx="18" fill="url(#ab-glow)"/>
+<rect width="1200" height="420" rx="18" fill="url(#ab-grid)"/>
+<rect x="1" y="1" width="1198" height="418" rx="17" fill="none" stroke="#701A3D" stroke-opacity=".55"/>
+<circle cx="70" cy="52" r="8" fill="#C77B9B"/><circle cx="98" cy="52" r="8" fill="#E5B5C7"/><circle cx="126" cy="52" r="8" fill="#701A3D"/>
+<text x="150" y="60" font-size="19" fill="#B6A3AC" font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-weight="normal" text-anchor="start">aneesh@vasavi: ~/profile</text>
+<text x="60" y="118" font-size="20" fill="#C77B9B" font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-weight="bold" text-anchor="start">$ whoami</text>
+<text x="60" y="146" font-size="20" fill="#F8F0F3" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-weight="normal" text-anchor="start">FPGA &amp; SoC Designer — aiming for a core-domain placement.</text>
+<text x="60" y="170" font-size="20" fill="#C77B9B" font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-weight="bold" text-anchor="start">$ education</text>
+<text x="60" y="198" font-size="20" fill="#F8F0F3" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-weight="normal" text-anchor="start">B.Tech ECE, Semester 5 — Vasavi College of Engineering, Hyderabad.</text>
+<text x="60" y="222" font-size="20" fill="#C77B9B" font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-weight="bold" text-anchor="start">$ programme</text>
+<text x="60" y="250" font-size="20" fill="#F8F0F3" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-weight="normal" text-anchor="start">iHub-Data, IIIT Hyderabad — AI &amp; ML, 24 weeks, Sep 2025 – Feb 2026.</text>
+<text x="60" y="274" font-size="20" fill="#C77B9B" font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-weight="bold" text-anchor="start">$ flagship</text>
+<text x="60" y="302" font-size="20" fill="#F8F0F3" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-weight="normal" text-anchor="start">NEXUS-32 — PicoRV32 FIR SoC on Basys 3, three architectures, one contract.</text>
+<text x="60" y="326" font-size="20" fill="#C77B9B" font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-weight="bold" text-anchor="start">$ focus</text>
+<text x="60" y="354" font-size="20" fill="#F8F0F3" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-weight="normal" text-anchor="start">VLSI / SoC · RISC-V · DSP &amp; hardware acceleration · Robotics · Edge AI / TinyML.</text>
+<text x="60" y="378" font-size="20" fill="#C77B9B" font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-weight="bold" text-anchor="start">$ languages</text>
+<text x="60" y="406" font-size="20" fill="#F8F0F3" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-weight="normal" text-anchor="start">SystemVerilog · Verilog · Python · C · C++ · Arduino.</text>
+</svg>
