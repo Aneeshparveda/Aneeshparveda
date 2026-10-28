@@ -39,10 +39,10 @@
 <img src="assets/toolkit.svg" width="100%" alt="Toolkit: Hardware and SoC — SystemVerilog, Verilog, Vivado, RISC-V. Software — Python, C, C++, Arduino. AI and Computer Vision — AI, Machine Learning, OpenCV. Tools — Git, GitHub." />
 
 <img src="assets/title-commits.svg" width="100%" alt="05 Commit log — A year of building." />
-<img src="assets/commit-log.svg" width="100%" alt="Commit log: 125 contributions in the last year, snapshot checked 29 October 2026. The live graph is on my GitHub profile." />
+<img src="assets/commit-log.svg" width="100%" alt="Commit log: 125 contributions in the last year, snapshot checked 29 October 2026. The grid animation is stylised, not real contribution squares. The live graph is on my GitHub profile." />
 
 <p align="center">
-  <em>The panel above is a snapshot from 29 October 2026, not live data. My live contribution graph is on <a href="https://github.com/Aneeshparveda">my GitHub profile</a>.</em>
+  <em>The panel above is a snapshot from 29 October 2026, not live data, and its grid animation is stylised, not real contribution squares. My live contribution graph is on <a href="https://github.com/Aneeshparveda">my GitHub profile</a>.</em>
 </p>
 
 <img src="assets/title-education.svg" width="100%" alt="06 Education and certification — Documented, not decorated." />
